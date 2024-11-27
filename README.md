@@ -1,3 +1,3 @@
-# Machinelearning_projects
-in this repo i am going to add every project 
-of machine learning and covering the each and every topic.
+# Machinelearning_practice files
+In this repo i have added the practice files that 
+i 'hve practiced for every topic supervised machine learning
